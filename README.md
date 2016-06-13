@@ -1,3 +1,9 @@
+# *Thrift*
+----------
+Thrift QuickStart
+
+>项目地址：[Thrift](https://github.com/IFT8/ThriftDemo "Thrift QuickStart")
+
 # *IDEA-zh*
 ----------
 针对Intellij IDEA进行汉化，目前完成部分汉化，时间有限，汉化持续缓慢进行中……
